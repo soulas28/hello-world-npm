@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/soulas28/hello-world-npm/issues"
   },
-  "homepage": "https://github.com/soulas28/hello-world-npm#readme"
+  "homepage": "https://github.com/soulas28/hello-world-npm#readme",
+  "publishConfig": {
+    "@soulas28:registry": "https://npm.pkg.github.com"
+  }
 }
